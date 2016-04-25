@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_114a3ab5200cebe7870c0397d95094d1495a6bbb.jar" />
+    </item>
+    <item
+        jar="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_b4b00f18c0ddbd0e7920a98efd9d2eb1d9a40f04.jar" />
+    </item>
+    <item
+        jar="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d2000a1b028d93313c69d337eba51ff76d50acdd">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/pre-dexed/debug/instant-run_3a3cfed344ed5c0758fd814c87ccb5299466dc18.jar" />
+    </item>
+    <item
+        jar="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_d8ad5c1117641c9f312d9405bcdab7dcd185e895.jar" />
+    </item>
+    <item
+        jar="/Users/ShenYan/Dev/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_027886308460b6087061560b6124e8a089c7a8c8.jar" />
+    </item>
+    <item
+        jar="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_97db46d928fb1a36adabcda5f03ebcb94b44e693.jar" />
+    </item>
+    <item
+        jar="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="90deef6054c82cead40e672d11c2452cc675d548">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_04214b85c894d66fbb29525875c71eb03e0d4764.jar" />
+    </item>
+    <item
+        jar="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-23.3.0_598a855621f3bfbc99ec95771d643df606e78eef.jar" />
+    </item>
+    <item
+        jar="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_edd1a6a3f193e694478911a0c53ac1fc9a1c47cc.jar" />
+    </item>
+    <item
+        jar="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d41792854b7fb173e61c2bfea5044fd47df76114">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-23.3.0_04424c0642605c055c18706c335eebd43d1de3e3.jar" />
+    </item>
+    <item
+        jar="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f8e0ef2d39050a7bbccf61ac7e84eb4d4d1213a1">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.3.0_7f56e7398a1a7a2e02a951ca53bdc4e70dd950bd.jar" />
+    </item>
+    <item
+        jar="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.3.0_399086c4e657401fe096315b270febd41473c4d4.jar" />
+    </item>
+    <item
+        jar="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="280e2b7923ad8acb506c89a6aa0954902761b7f1">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_913908291b282921f37ee22382bb57deeea9561f.jar" />
+    </item>
+    <item
+        jar="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_82357b9917d8e2702067bb917eca670465031aa0.jar" />
+    </item>
+
+</items>

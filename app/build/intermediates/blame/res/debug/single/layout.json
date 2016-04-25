@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/dialog_usage.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/dialog_usage.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/toolbar_fragment_pager.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/toolbar_fragment_pager.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/dialog_content_buttons.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/dialog_content_buttons.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/grid_layout_2.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/grid_layout_2.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/mr_chooser_dialog.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.3.0/res/layout/mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/sample_media_router.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/sample_media_router.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/action_bar_hide_scroll.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/action_bar_hide_scroll.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/mr_controller_volume_item.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.3.0/res/layout/mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/grid_layout_1.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/grid_layout_1.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/config_view_toggle.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/config_view_toggle.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/appcompat_animated_vector.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/appcompat_animated_vector.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/appcompat_widgets_text_input.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/appcompat_widgets_text_input.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/touch_item.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/touch_item.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/action_bar_tab_content.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/action_bar_tab_content.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/sample_media_controller.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/sample_media_controller.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/media_item.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/media_item.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/sorted_list_item_view.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/sorted_list_item_view.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/action_bar_fragment_menu.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/action_bar_fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/alert_dialog_usage.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/alert_dialog_usage.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/appcompat_widgets_buttons.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/appcompat_widgets_buttons.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/mr_playback_control.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.3.0/res/layout/mr_playback_control.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/sorted_list_activity.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/sorted_list_activity.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/popup_menu_activity.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/popup_menu_activity.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/mr_volume_control.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.3.0/res/layout/mr_volume_control.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/palette_activity_detail.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/palette_activity_detail.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/mr_chooser_list_item.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.3.0/res/layout/mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/appcompat_night_mode.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/appcompat_night_mode.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/selectable_item.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/selectable_item.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/activity_item_touch.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/activity_item_touch.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/palette_grid_item.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/palette_grid_item.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/action_bar_tabs.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/action_bar_tabs.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/activity_base_layout_manager.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/activity_base_layout_manager.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/toolbar_usage.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/toolbar_usage.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/action_bar_settings_action_provider.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/action_bar_settings_action_provider.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/toolbar_display_options.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/toolbar_display_options.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/action_bar_action_mode.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/action_bar_action_mode.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/activity_card_view.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/activity_card_view.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/action_bar_display_options_custom.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/action_bar_display_options_custom.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/overlay_display_window.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/overlay_display_window.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/drawer_layout.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/drawer_layout.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/palette_list_item.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/palette_list_item.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/list_popup_window_activity.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/list_popup_window_activity.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/sample_media_router_presentation.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/sample_media_router_presentation.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/dialog_content.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/dialog_content.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/mr_controller_material_dialog_b.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.3.0/res/layout/mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/appcompat_widgets_text_spinners.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/appcompat_widgets_text_spinners.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/toolbar_action_mode.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/toolbar_action_mode.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/animated_recycler_view.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/animated_recycler_view.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/layout/action_bar_display_options.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/layout/action_bar_display_options.xml"
+    }
+]

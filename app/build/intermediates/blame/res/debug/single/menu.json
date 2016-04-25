@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/menu/sample_media_router_menu.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/menu/sample_media_router_menu.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/menu/popup_menu.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/menu/popup_menu.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/menu/display_options_actions.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/menu/display_options_actions.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/menu/sample_palette_actions.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/menu/sample_palette_actions.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/menu/action_bar_settings_action_provider.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/menu/action_bar_settings_action_provider.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/menu/actions.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/menu/actions.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/build/intermediates/res/merged/debug/menu/action_bar_share_action_provider.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support7Demos/app/src/main/res/menu/action_bar_share_action_provider.xml"
+    }
+]
